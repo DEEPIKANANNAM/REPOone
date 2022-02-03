@@ -1,0 +1,9 @@
+{
+	"name": "DATAFACone",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ff4225b-e3e9-4fb8-b44a-d2961e6aab33",
+		"tenantId": "7a47ccdb-b2b0-4688-a9d6-80b19ff955e2"
+	}
+}
